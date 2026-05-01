@@ -25,6 +25,12 @@ Download `algs4.jar` here:
 https://algs4.cs.princeton.edu/code/algs4.jar
 ```
 
+Download `algs4.jar` and place it here:
+
+```text
+lib/algs4.jar
+```
+
 ```bash
 mkdir -p out
 javac -cp "lib/algs4.jar;src" -d out src/core/*.java src/tileengine/*.java src/utils/*.java
